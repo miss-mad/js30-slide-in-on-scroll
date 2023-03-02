@@ -9,11 +9,7 @@
 
 ## Description
 
-Created with only Vanilla JavaScript.
-
-## Usage
-
-![Slide in on Scroll screenshot 1](./assets/images/)
+A small animation in which the images slide in as they are scrolled past, then disappear again when almost out of view. Created with only Vanilla JavaScript.
 
 ## Credits
 
